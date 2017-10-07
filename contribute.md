@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Contribute"
+title: "Share your own resource"
 permalink: /contribute/
 ---
 
-# Share your own resource...
+Send me [an email](mailto:jschuur@jschuur.com).

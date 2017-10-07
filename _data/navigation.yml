@@ -3,7 +3,5 @@
 main:
   - title: "About"
     url: /about/
-  - title: "@joostschuur"
-    url: https://twitter.com/joostschuur
   - title: "Contribute"
     url: /contribute/

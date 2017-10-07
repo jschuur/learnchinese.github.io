@@ -2,7 +2,7 @@ title: Learn Chinese Club
 email: jschuur@jschuur.com
 description: >-
   All the best Chinese learning resources
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://learnchinese.club" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joostschuur
 author: <a href="https://twitter.com/joostschuur">Joost Schuur</a>
