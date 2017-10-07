@@ -6,3 +6,12 @@
 a, a:active, a:hover, a:visited {
   color: tomato
 }
+
+.post-list > li:not(:first-child) {
+    border-top: 0px;
+    padding-top: 0px;
+}
+
+h1.post-title {
+  font-size: 32x;
+}
