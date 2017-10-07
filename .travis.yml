@@ -1,9 +1,14 @@
 language: ruby
 rvm:
-- 2.0.0
-- 1.9.3
-- jruby-19mode
-- rbx-2
+  - 2.3.4
 env:
   global:
     secure: lqJ4Dkui+Ly33uFXHEQs5hwoC0INjqajnZjfR1AaYs9bP9CNfcA3N/lTFZag54GQ7CIcGyVmad6VwLVglnCiK4Xdbz3N9910B2ZgcGnqX6nyNRW/UTT5w31EVONITxjkFsIJcMa8hxBOxxseDtn0TI6gArTOzK34oTuZhG3lQuoJWENDVXX6e0MwKSCOjfoGon31FakfKIXqHeZJtVZeaolM6+nn/Bf3qmKQIX/yPIRw2si60PNpA1dAjQsWLtS56XQIIM30jCm5vdz+yMZFcWTaDn8Oe3AXtA1cnCwv2TByhPZhZmd/bp89j5rlMgz4PzIz4/GW/L4HOQ7pj0Omp3rKyzdz2kPN+5y00GOR4GDUla2QLn2gRkwERclo2PoXPKyH36ryeh3DXQs2ThYMCfXBO6lavEpElmc0kicRSClJZW7M598sa1YSMffOzPpGF03d7MM78HNlWOJ3gYh07hR45CkTdanmPG4pFMLCl2MhEsCnLCqcw7JyHS5uzx4nh/FvfnScglboNhau7nkSZtc0P5Dgxbd9lKryAM7vf855pwIHpNazYtU6KppNblmDOZ/qwbHHxPcQhIqpP+OBfcrZj7wt/B28DxupUCNugZQSrKMK7TIqONB1rT84lf5RQ2GDGllUxaqU8jDwIblJWBcjYpHunBO1YpQ6xATTLNE=
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: "$GITHUB_TOKEN"
+  local_dir: _site
+  target_branch: master
+  on:
+    branch: source
