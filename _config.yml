@@ -1,4 +1,4 @@
-title: Learn Chinese Club
+title: Chinese Learning Resources
 email: jschuur@jschuur.com
 description: >-
   All the best Chinese learning resources
@@ -18,9 +18,9 @@ plugins:
 
 theme: jekyll-whiteglass
 
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 paginate_path: /posts/:num/
-paginate: 5
+paginate: 20
 
 jekyll-archives:
   enabled:
