@@ -25,3 +25,4 @@ permalink: /blogs/
 * [Ignite Language](http://tprsforchinese.blogspot.co.uk/)
 * [Wordswing](https://wordswing.com)
 * [Chinese Language Institute Blog](http://www.studycli.org/blog/)
+* [Mandarin Portal](https://mandarinportal.com/)

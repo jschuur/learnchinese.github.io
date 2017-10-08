@@ -4,7 +4,7 @@ title:  "Apps"
 permalink: /apps/
 ---
 * [Have Fun Learn Chinese](http://www.havefunlearnchinese.com/)
-* [Hello Chinese](http://www.hellochinese.cc/) - Like Duolingo, but for Chinese (sorry, Dualingo!)
+* [Hello Chinese](http://www.hellochinese.cc/) - Like Duolingo, but for Chinese (sorry, Duolingo!)
 * [Du Chinese](https://www.duchinese.net/)
 * [Learn Chinese (Mandarin) by Brainscape](https://itunes.apple.com/us/app/learn-chinese-mandarin-by-brainscape/id408272086?mt=8)
 * [ChineseSkill](https://appsto.re/gb/6xCuU.i)

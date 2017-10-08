@@ -22,6 +22,7 @@ permalink: /todo/
 # After that
 
 * ~~Use pages and list on homepage instead of posts~~
+* ~~Counter for the number of resources at the top~~
 * Site descriptions
 * Sidebar with links
 * Find more Cantonese resources
@@ -35,6 +36,5 @@ permalink: /todo/
 * Archive of dead links
 * Report a dead link option
 * Generate page content from CSV
-* Counter for the number of resources at the top
 * Better Twitter profile picture and banner
 * Favicon
