@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Communities"
-date:   2017-09-30 08:01:49 +0100
+permalink: /communities/
 ---
 * [/r/learnmandarin](https://www.reddit.com/r/learnmandarin/)
 * [/r/learnchinese](https://www.reddit.com/r/learnchinese/)

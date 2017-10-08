@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Courses"
-date:   2017-09-28 08:01:49 +0100
+permalink: /courses/
 ---
 * [Chinese Zero to Hero](http://chinesezerotohero.com) - Grammar based HSK1-3 courses
 * [Learn Chinese: HSK Test Preparation Specialization](https://www.coursera.org/specializations/hsk-learn-chinese) - 4 courses by Peking University to prepare students for HSK Level 1-3 exams.

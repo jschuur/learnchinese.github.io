@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Schools"
-date:   2017-09-29 08:01:49 +0100
+permalink: /schools/
 ---
 * [Mandarin Club](http://mandarinclub.net/) - Learn Chinese in Chengdu
 * [Hutong School](https://www.hutong-school.com/)

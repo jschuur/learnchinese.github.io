@@ -11,12 +11,15 @@ author: <a href="https://twitter.com/joostschuur">Joost Schuur</a>
 markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-sitemap
 
 theme: jekyll-whiteglass
 
 exclude: [ "vendor", Rakefile", README.md" ]
+
+collections:
+  sections:
+    output: true
 
 permalink: /:title/
 paginate_path: /posts/:num/

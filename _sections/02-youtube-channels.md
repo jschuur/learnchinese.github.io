@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Youtube Channels"
-date:   2017-10-06 08:01:49 +0100
+permalink: /youtube/
 ---
 * [Yi Zhao](https://www.youtube.com/channel/UCPS5lOyQ2HfaYgapBV22H0A)
 * [Xiao Min](https://www.youtube.com/user/XiaoMiMandarin)

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Podcasts"
-date:   2017-10-04 08:01:49 +0100
+permalink: /podcasts/
 ---
 * [Talk Chineasy](https://www.chineasy.com/talk/)
 * [CoffeeBreak Chinese](https://radiolingua.com/coffeebreakchinese/)

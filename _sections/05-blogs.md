@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Blogs"
-date:   2017-10-03 08:01:49 +0100
+permalink: /blogs/
 ---
 * [Sinosplice](http://www.sinosplice.com/)
 * [Mandarin Weekly](http://mandarinweekly.com/) - Newsletter

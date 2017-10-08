@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Books"
-date:   2017-10-01 08:01:49 +0100
+permalink: /books/
 ---
 * [Integrated Chinese](https://www.cheng-tsui.com/browse/integrated-chinese-4th-edition) - One of the best textbook series for Chinese learning
 * [Mandarin Companion](http://mandarincompanion.com/) - Graded readers

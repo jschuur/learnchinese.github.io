@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Speaking Opportunities"
-date:   2017-09-31 08:01:49 +0100
+permalink: /speaking-opportunities/
 ---
 * [eChineseLearning](http://www.echineselearning.com/)
 * [ePutongHua](http://www.e-putonghua.com/)

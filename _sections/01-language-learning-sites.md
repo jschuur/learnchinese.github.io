@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Language Learning Sites"
-date:   2017-10-07 08:01:49 +0100
+permalink: /sites/
 ---
 * [ChinesePod](https://chinesepod.com/)
 * [Chinese Grammar Wiki](https://resources.allsetlearning.com/chinese/grammar/) - Your practical, free, comprehensive online resource for Chinese grammar. Over 1,700 articles. Also available as a Kindle ebook.

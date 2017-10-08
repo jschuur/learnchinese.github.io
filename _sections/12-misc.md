@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title:  "Misc"
-date:   2017-09-02 08:01:49 +0100
+permalink: /misc/
 ---
-* [Talking Chinese Pinyin/Zhuyin Converter](https://www.purpleculture.net/chinese-pinyin-converter/)] / [MandarinSpot Text Annotator](https://mandarinspot.com/annotate) / [Pinyin Converter](http://www.pin1yin1.com/)
+* [Talking Chinese Pinyin/Zhuyin Converter](https://www.purpleculture.net/chinese-pinyin-converter/) / [MandarinSpot Text Annotator](https://mandarinspot.com/annotate) / [Pinyin Converter](http://www.pin1yin1.com/)
 * [Benny’s Top Resources for Learning Chinese](https://www.fluentin3months.com/chinese-learning-resources/)
 * [Sapore di Cina resource list](http://www.saporedicina.com/english/learn-chinese-online-25-excellent-free-resources/)
 * [Resources for learning Chinese at Chinese Language Stack Exchange](https://chinese.stackexchange.com/questions/1120/resources-for-learning-mandarin-chinese)

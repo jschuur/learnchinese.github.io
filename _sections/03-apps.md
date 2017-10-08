@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Apps"
-date:   2017-10-05 08:01:49 +0100
+permalink: /apps/
 ---
 * [Have Fun Learn Chinese](http://www.havefunlearnchinese.com/)
 * [Hello Chinese](http://www.hellochinese.cc/) - Like Duolingo, but for Chinese (sorry, Dualingo!)
