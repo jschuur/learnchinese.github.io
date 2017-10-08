@@ -11,9 +11,9 @@ permalink: /todo/
 * ~~Smaller header size and less padding on home page~~
 * ~~Remove date from posts (on home page)~~
 * ~~Link to GitHub repo~~
+* ~~Create Twitter account~~
 * Home page always shows full posts
 * Separate out favorites to the top (still bold links via CSS?)
-* Create Twitter account?
 * Tagline after site name
 * Section headers
 * Intro header at the top of the home page
@@ -36,3 +36,5 @@ permalink: /todo/
 * Report a dead link option
 * Generate page content from CSV
 * Counter for the number of resources at the top
+* Better Twitter profile picture and banner
+* Favicon
