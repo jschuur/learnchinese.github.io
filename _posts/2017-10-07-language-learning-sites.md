@@ -12,7 +12,7 @@ date:   2017-10-07 08:01:49 +0100
 * [HSK Academy](http://www.hsk.academy/)
 * [Chinese With Mike](http://www.chinesewithmike.com/)
 * [Hacking Chinese](http://www.hackingchinese.com/)
-* [Chinese Boost](https://www.chineseboost.com/)
+* [Chinese Boost Grammar](https://www.chineseboost.com/grammar/)
 * [Domino Chinese](https://dominochinese.com/)
 * [Fluent In Mandarin](https://www.fluentinmandarin.com/)
 * [Just Learn Chinese](http://justlearnchinese.com/)
