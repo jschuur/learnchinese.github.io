@@ -16,7 +16,7 @@ permalink: /todo/
 * Separate out favorites to the top (still bold links via CSS?)
 * Tagline after site name
 * Section headers
-* Intro header at the top of the home page
+* Intro header at the top of the home page (newsbox with a different background color)
 * Meta tags for SEO
 
 # After that

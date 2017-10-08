@@ -12,6 +12,14 @@ a, a:active, a:hover, a:visited {
     padding-top: 0px;
 }
 
-h1.post-title {
-  font-size: 32x;
+h1.post-title a {
+  font-size: 26px;
+}
+
+.post-list > li {
+  margin-bottom: 0px;
+}
+
+.post-content {
+  margin-bottom: 20px;
 }
