@@ -8,12 +8,12 @@ permalink: /todo/
 * ~~Figure out where to store CSS~~
 * ~~Better link colors (red?)~~
 * ~~Last updated text (in footer?)~~
+* ~~Smaller header size and less padding on home page~~
+* ~~Remove date from posts (on home page)~~
+* ~~Link to GitHub repo~~
 * Home page always shows full posts
 * Separate out favorites to the top (still bold links via CSS?)
-* Remove date from posts (on home page)
-* Smaller header size and less padding on home page
 * Create Twitter account?
-* Link to GitHub repo
 * Tagline after site name
 * Section headers
 * Intro header at the top of the home page

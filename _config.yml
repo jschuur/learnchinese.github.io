@@ -2,32 +2,25 @@ title: Chinese Learning Resources
 email: jschuur@jschuur.com
 description: >-
   All the best Chinese learning resources
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://learnchinese.club" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "http://learnchinese.club"
 twitter_username: joostschuur
 author: <a href="https://twitter.com/joostschuur">Joost Schuur</a>
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
 
 theme: jekyll-whiteglass
 
+exclude: [ "Rakefile", README.md" ]
+
 permalink: /:title/
 paginate_path: /posts/:num/
 paginate: 20
-
-jekyll-archives:
-  enabled:
-    - categories
-  layout: category_archives
-  permalinks:
-    category: /categories/:name/
 
 google_analytics: UA-107202787-2
 date: Oct 08 2017
