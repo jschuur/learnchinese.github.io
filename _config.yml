@@ -16,7 +16,7 @@ plugins:
 
 theme: jekyll-whiteglass
 
-exclude: [ "Rakefile", README.md" ]
+exclude: [ "vendor", Rakefile", README.md" ]
 
 permalink: /:title/
 paginate_path: /posts/:num/
