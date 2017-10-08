@@ -7,8 +7,9 @@ permalink: /todo/
 
 * ~~Figure out where to store CSS~~
 * ~~Better link colors (red?)~~
+* ~~Last updated text (in footer?)~~
 * Home page always shows full posts
-* Separte out favorites to the top (still bold links via CSS?)
+* Separate out favorites to the top (still bold links via CSS?)
 * Remove date from posts (on home page)
 * Smaller header size and less padding on home page
 * Create Twitter account?
@@ -17,7 +18,6 @@ permalink: /todo/
 * Section headers
 * Intro header at the top of the home page
 * Meta tags for SEO
-* Last updated text (in footer?)
 
 # After that
 
