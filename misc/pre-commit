@@ -1,0 +1,9 @@
+#!/bin/sh
+# Contents of .git/hooks/pre-commit
+
+set -e
+set -x
+
+sed -i '' -e "s/^last_updated:.*$/last_updated: $(TZ=UTC date +"%b %d %Y")/" _config.yml
+sed -i '' -e "s/^resource_count:.*$/resource_count: $(grep -oh http _sections/*.md | wc -l | awk '{$1=$1};1')/" _config.yml
+git add _config.yml

@@ -15,7 +15,7 @@ plugins:
 
 theme: jekyll-whiteglass
 
-exclude: [ "vendor", Rakefile", README.md" ]
+exclude: [ "misc", "vendor", Rakefile", README.md" ]
 
 collections:
   sections:
@@ -27,3 +27,4 @@ paginate: 20
 
 google_analytics: UA-107202787-2
 last_updated: Oct 08 2017
+resource_count: 199

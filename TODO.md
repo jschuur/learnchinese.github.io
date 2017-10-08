@@ -12,7 +12,7 @@ permalink: /todo/
 * ~~Remove date from posts (on home page)~~
 * ~~Link to GitHub repo~~
 * ~~Create Twitter account~~
-* Home page always shows full posts
+* ~~Home page always shows full posts~~
 * Separate out favorites to the top (still bold links via CSS?)
 * Tagline after site name
 * Section headers
@@ -21,17 +21,17 @@ permalink: /todo/
 
 # After that
 
-* Use pages and list on homepage instead of posts
-* Site desriptions
+* ~~Use pages and list on homepage instead of posts~~
+* Site descriptions
 * Sidebar with links
 * Find more Cantonese resources
 * Icon to indicate old sites (font emoji? Old man?) Or a system of icons that show freshness?
 * Automate health check of URLs?
-* Form to contribute https://pageclip.co/
+* Form to contribute
 * Contribute link at the bottom of every section
 * Try out Hyde theme? http://hyde.getpoole.com/
 * Spin off Kids Resources section
-* List app links (and podcast) separtely from site home.
+* List app links (and podcast) separately from site home.
 * Archive of dead links
 * Report a dead link option
 * Generate page content from CSV
