@@ -30,3 +30,4 @@ permalink: /apps/
 * [Tutor Mandarin](https://play.google.com/store/apps/details?id=inc.osbay.android.tutormandarin) - Android
 * [LiaoLearn](http://liaolearn.com/)
 * [LingoDeer](https://www.lingodeer.com/)
+* [Quick Chinese](https://quickchineseapp.com/) - A gamified sentence syntax app for learning chinese... coming soon iOS and Android.
