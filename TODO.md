@@ -45,3 +45,4 @@ permalink: /todo/
 * Better Twitter profile picture and banner
 * Favicon
 * Browse by latest additions
+* Automatically tweet out newly added entries
