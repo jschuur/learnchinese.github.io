@@ -42,7 +42,7 @@ permalink: /youtube/
 * [Crazy Fresh Chinese](https://www.youtube.com/user/CrazyFreshChinese/videos) (no longer updated)
 * [Ms Zou’s Chinese Class](https://www.youtube.com/user/mszouchinese/) (no longer updated)
 * [Tales from China](https://www.youtube.com/user/talesfromchina) - Animated chengyu explainers (no longer updated)
-* [Learn A Chinese Phrase](https://www.youtube.com/user/ciwsu) - From the Confucious Institute at Wayne State University
+* [Learn A Chinese Phrase](https://www.youtube.com/user/ciwsu) - From the Confucius Institute at Wayne State University
 
 #### Chinese lifestyle and travel vlogs
 
