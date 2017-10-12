@@ -31,3 +31,4 @@ permalink: /apps/
 * [LiaoLearn](http://liaolearn.com/)
 * [LingoDeer](https://www.lingodeer.com/)
 * [Quick Chinese](https://quickchineseapp.com/) - A gamified sentence syntax app for learning chinese... coming soon iOS and Android.
+* [Levelr Chinese](http://levelr.io/learnchinese/) Read News and Learn Chinese for all levels, iOS and Android.

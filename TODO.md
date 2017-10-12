@@ -15,9 +15,9 @@ permalink: /todo/
 * ~~Home page always shows full posts~~
 * Separate out favorites to the top (still bold links via CSS?)
 * Tagline after site name
-* Section headers
+* Section intro text
 * Only show favorites on home page (exclude from resource_count if duplicating content)
-* Dedicated section of outdates links at the bottom of the list with header
+* Dedicated section of outdated links at the bottom of the list with header
 * Intro header at the top of the home page (newsbox with a different background color)
 * Link to todo page somewhere (header box?)
 * Meta tags for SEO
