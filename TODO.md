@@ -46,3 +46,4 @@ permalink: /todo/
 * Favicon
 * Browse by latest additions
 * Automatically tweet out newly added entries
+* Getting Started page with a structured overview if the most important resources
