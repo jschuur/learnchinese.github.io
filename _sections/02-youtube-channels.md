@@ -3,8 +3,6 @@ layout: page
 title:  "Youtube Channels"
 permalink: /youtube/
 ---
-#### Language learning channels
-
 * [Yi Zhao](https://www.youtube.com/channel/UCPS5lOyQ2HfaYgapBV22H0A)
 * [Xiao Min](https://www.youtube.com/user/XiaoMiMandarin)
 * [Chinese Pod](https://www.youtube.com/user/ChinesePodTV/videos)
@@ -38,14 +36,11 @@ permalink: /youtube/
 * [Mandarin Chinese Cafe](https://www.youtube.com/channel/UCwtQnVVClveyU-kcP8_zlhg) - HSK sample tests
 * [TutorMandarin](https://www.youtube.com/channel/UCxjI2GHzUSC0AA6TnT07oOA/videos)
 * [More Fun Chinese](https://www.youtube.com/channel/UCJIgBiDwg9b1HOuF_oNkEfA) - Short, kid centric videos.
-* [Chinese Corner](https://www.youtube.com/user/ChineseCorner/videos) (outdated, but home to several episodes of the classic [Happy Chinese](https://happychinesetv.wordpress.com/) series)
-* [Crazy Fresh Chinese](https://www.youtube.com/user/CrazyFreshChinese/videos) (no longer updated)
-* [Ms Zou’s Chinese Class](https://www.youtube.com/user/mszouchinese/) (no longer updated)
+* [Chinese Corner](https://www.youtube.com/user/ChineseCorner/videos) - Outdated, but home to several episodes of the classic [Happy Chinese](https://happychinesetv.wordpress.com/) series
+* [Crazy Fresh Chinese](https://www.youtube.com/user/CrazyFreshChinese/videos) - no longer updated
+* [Ms Zou’s Chinese Class](https://www.youtube.com/user/mszouchinese/) - no longer updated
 * [Tales from China](https://www.youtube.com/user/talesfromchina) - Animated chengyu explainers (no longer updated)
 * [Learn A Chinese Phrase](https://www.youtube.com/user/ciwsu) - From the Confucius Institute at Wayne State University
-
-#### Chinese lifestyle and travel vlogs
-
 * [Fulinfang](https://www.youtube.com/channel/UCpPQO_EIa96Ts8O3MflskjQ/videos)
 * [Ari in Beijing](https://www.youtube.com/channel/UCLNoXf8gq6vhwsrYp-l0J-Q)
 * [snarkyguy](https://www.youtube.com/user/snarkywhiteguy/)
@@ -56,4 +51,4 @@ permalink: /youtube/
 * [Lauren Without Fear](https://www.youtube.com/channel/UCSn027Upnxb1c7efrCVb8wg)
 * [Austin in China](https://www.youtube.com/user/austinguidry2)
 * [Mamahuhu](https://www.youtube.com/user/monkeykingzchina)
-* [Wode Maya](https://www.youtube.com/user/MrGhanaBaby)
+* [Wode Maya](https://www.youtube.com/user/MrGhanaBaby))

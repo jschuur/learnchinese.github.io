@@ -21,7 +21,7 @@ permalink: /sites/
 * [Yes Chinese](http://www.yes-chinese.com/en/)
 * [The Chairman’s Bao](http://www.thechairmansbao.com/)
 * [ArchChinese](http://www.archchinese.com/)
-* [The Mimic Method](https://www.mimicmethod.com/the-flow-of-mandarin/) - The Flow of Mandarin - Master mandarin ﻿﻿﻿﻿pronunciation with﻿﻿﻿﻿ musical speech-training & personalized instruction. (paid, $247 one time)
+* [The Mimic Method](https://www.mimicmethod.com/the-flow-of-mandarin/) - The Flow of Mandarin - Master mandarin pronunciation with musical speech-training & personalized instruction. (paid, $247 one time)
 * [DigMandarin](http://www.digmandarin.com/)
 * [Chinese to Learn](http://www.chinesetolearn.com/) - Free audio Mandarin lessons & songs
 * [myChineseReading](http://mychinesereading.com/)

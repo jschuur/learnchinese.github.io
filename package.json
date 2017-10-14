@@ -1,0 +1,24 @@
+{
+  "name": "learnchinese.club",
+  "version": "1.0.0",
+  "description": "[learnchinese.club](http://learnchinese.club) is a Jekyll powered listing of Chinese language learning resources by [Joost Schuur](https://twitter.com/joostschuur).",
+  "main": "generate_sections.js",
+  "scripts": {
+    "build": "node generate_sections.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jschuur/learnchinese.github.io.git"
+  },
+  "keywords": [],
+  "author": "Joost Schuur <jschuur@jschuur.com> (http://joostschuur.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jschuur/learnchinese.github.io/issues"
+  },
+  "homepage": "http://learnchinese.club",
+  "devDependencies": {
+    "fs-extra": "^4.0.2",
+    "google-spreadsheet": "^2.0.4"
+  }
+}

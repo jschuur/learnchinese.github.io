@@ -4,7 +4,7 @@ title:  "Blogs"
 permalink: /blogs/
 ---
 * [Sinosplice](http://www.sinosplice.com/)
-* [Mandarin Weekly](http://mandarinweekly.com/) - Newsletter
+* [Mandarin Weekly](http://mandarinweekly.com/) - Great newsletter too
 * [All Language Resources](http://www.alllanguageresources.com/)
 * [Laowai Chiness](http://laowaichinese.net/)
 * [Decode Mandarin Chinese](http://www.decodemandarinchinese.com/)
@@ -21,7 +21,7 @@ permalink: /blogs/
 * [The Mandarin Corner](https://themandarincornerblog.com/)
 * [All About Chinese](http://allaboutchinese.tumblr.com/)
 * [China Hope Live](https://chinahopelive.net/)
-* [Miss Panda Chinese](https://www.misspandachinese.com/) [Twitter]()
+* [Miss Panda Chinese](https://www.misspandachinese.com/)
 * [Ignite Language](http://tprsforchinese.blogspot.co.uk/)
 * [Wordswing](https://wordswing.com)
 * [Chinese Language Institute Blog](http://www.studycli.org/blog/)
