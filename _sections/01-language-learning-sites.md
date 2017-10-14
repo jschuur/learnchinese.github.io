@@ -41,3 +41,4 @@ permalink: /sites/
 * [Mock HSK tests](http://chinesetests.cn)
 * [Chinese Learn Online](https://www.chineselearnonline.com/)
 * [LearnMandarinChinese.com](http://www.learnmandarinchinese.com/) - 6000 words, 4500 sentences in Chinese, 200 lessons for HSK 1-4.
+* [Chinese Tutor](https://www.fastchinese.org/)
