@@ -2,9 +2,12 @@
   "Language Learning Sites": {
     "slug": "sites"
   },
-  "Youtube Channels": {
+  "Youtube Channels (Language)": {
     "slug": "youtube"
-    } ,
+  },
+  "Youtube Channels (Vloggers)": {
+    "slug": "youtube-vloggers"
+  },
   "Apps": {},
   "Podcasts": {},
   "Blogs": {},
