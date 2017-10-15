@@ -32,3 +32,4 @@ permalink: /apps/
 * [Quick Chinese](https://quickchineseapp.com/) - A gamified sentence syntax app for learning chinese... coming soon iOS and Android.
 * [Levelr Chinese](http://levelr.io/learnchinese/) - Read News and Learn Chinese for all levels, iOS and Android.
 * [Manga Mandarin](http://www.funnybean.com/) - Learn Mandarin Chinese via original comics.
+* [Hanping Chinese](http://hanpingchinese.com/) - Several dictionary and OCR apps for Android.

@@ -7,3 +7,4 @@ permalink: /speaking-opportunities/
 * [ePutongHua](http://www.e-putonghua.com/)
 * [iTalki](https://www.italki.com/teachers/professional/chinese)
 * [HelloTalk](https://www.hellotalk.com/) - App to find native language speaking partners (iOS, Android)
+* [MeetMandarin](http://www.meetmandarin.com/)

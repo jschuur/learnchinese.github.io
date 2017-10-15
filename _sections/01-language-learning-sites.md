@@ -42,3 +42,4 @@ permalink: /sites/
 * [Chinese Learn Online](https://www.chineselearnonline.com/)
 * [LearnMandarinChinese.com](http://www.learnmandarinchinese.com/) - 6000 words, 4500 sentences in Chinese, 200 lessons for HSK 1-4.
 * [Chinese Tutor](https://www.fastchinese.org/)
+* [Chinese Word of the Day](http://709er.com/wordoftheday/chinese/) - with audio
