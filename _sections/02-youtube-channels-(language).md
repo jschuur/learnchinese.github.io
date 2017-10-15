@@ -30,12 +30,8 @@ permalink: /youtube/
 * [Na Li Mandarin Class](https://www.youtube.com/channel/UCvfhc_cq88p2SCwqR5eWIFg)
 * [Pragmatic Chinese](https://www.youtube.com/channel/UCCYgnShg9TZQ5wmOA7vKJDw/videos) - discontinued
 * [HSK Academy](https://www.youtube.com/channel/UCnZ3QSEsg6DHMdOVjgdhRjg/videos)
-* [Little Fox Chinese](https://www.youtube.com/channel/UCipQJmg3yqouy6MRtPv_0Bg/featured) - Animated stories and songs for Chinese learners. Useful not just for kids!
-* [Chinese Buddy](https://www.youtube.com/channel/UCJdwm0ut_GzVT5VzzylqDQA) - Catch songs. Learn Mandarin.
-* [Happy Sunshine Friends](https://www.youtube.com/channel/UCpnqph0QcA4FMHGdyGDFaZA) - Some Chinese language videos for kids.
 * [Mandarin Chinese Cafe](https://www.youtube.com/channel/UCwtQnVVClveyU-kcP8_zlhg) - HSK sample tests
 * [TutorMandarin](https://www.youtube.com/channel/UCxjI2GHzUSC0AA6TnT07oOA/videos)
-* [More Fun Chinese](https://www.youtube.com/channel/UCJIgBiDwg9b1HOuF_oNkEfA) - Short, kid centric videos.
 * [Chinese Corner](https://www.youtube.com/user/ChineseCorner/videos) - Outdated, but home to several episodes of the classic [Happy Chinese](https://happychinesetv.wordpress.com/) series
 * [Crazy Fresh Chinese](https://www.youtube.com/user/CrazyFreshChinese/videos) - no longer updated
 * [Ms Zou’s Chinese Class](https://www.youtube.com/user/mszouchinese/) - no longer updated

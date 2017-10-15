@@ -8,6 +8,5 @@ permalink: /podcasts/
 * [Popup Chinese](http://popupchinese.com/)
 * [Slow Chinese](http://www.learnmandarinnow.com/)
 * [Learn Mandarin Now](http://www.learnmandarinnow.com/)
-* [Kids Chinese Podcast](http://kidschinesepodcast.com/)
 * [Chinese Lessons by Melnyk](https://itunes.apple.com/us/podcast/learn-chinese-mandarin-chinese-lessons/id119843495?mt=2)
 * [Chinese Podcasts](http://www.chinesepodcasts.com/) - List of Chinese language learnign and native podcasts with reviews.

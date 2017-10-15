@@ -13,4 +13,3 @@ permalink: /books/
 * [The Red Book](http://terrywaltz.com/the-red-book/) - TPRS with Chinese Characteristics (Teaching Proficiency through Reading and Storytelling)
 * [Purple Culture Chinese Learning Books](https://www.purpleculture.net/chinese-learning-c-1/)
 * [Chinese Blockbuster](http://chineseblockbuster.com/) - Reading Chinese is not rocket science!
-* [Enjoy Chinese](http://www.ejchinese.com/) - Chinese textbooks for kids

@@ -19,5 +19,3 @@ permalink: /misc/
 * [HanziGrid](https://www.hanzigrids.com/) - custom Chinese character worksheets
 * [Outlier](https://www.outlier-linguistics.com/) - Master the Chinese Language. Groundbreaking new Chinese character dictionary for Pleco.
 * [Chinese Champions Language Card Game](https://languagecardgames.com/product/chinese-champions/) - Chinese Champions Card Game is designed to inspire beginning Chinese language learners, challenge intermediates, and humble experts, with fantastic vocabulary and challenging gameplay.
-* [A Little Mandarin](https://alittlemandarin.com/) - A fresh update on classic Chinese children's songs that you AND your children will love.
-* [Chinese For Families](http://www.chineseforfamilies.com/)

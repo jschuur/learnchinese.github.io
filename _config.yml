@@ -26,5 +26,5 @@ paginate_path: /posts/:num/
 paginate: 20
 
 google_analytics: UA-107202787-2
-last_updated: Oct 14 2017
-resource_count: 212
+last_updated: Oct 15 2017
+resource_count: 213
