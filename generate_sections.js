@@ -8,14 +8,14 @@ var resources = 0;
 var doc = new GoogleSpreadsheet('1VfrT-1Kjv8gYRo-YBltUhb67OWHxmODlBAzwkgebgeE');
 var sheet;
 
-function toLowerNoSpaces(str) {
-  return str.replace(/ /g, '-').toLowerCase();
+function toSlug(str) {
+  return str.replace(/ /g, '-').replace(/[()]/g, '').toLowerCase();
 }
 
 function sectionFilename(category) {
   return filename = '_sections/' +
                     (Object.keys(categories).indexOf(category) + 1).toString().padStart(2, '0') + '-' +
-                    toLowerNoSpaces(category) + '.md';
+                    toSlug(category) + '.md';
 }
 
 function appendResource(category, resource) {
@@ -51,7 +51,7 @@ async.series([
 
       for (category in categories) {
         var filename = sectionFilename(category);
-        var slug = categories[category].slug || toLowerNoSpaces(category);
+        var slug = categories[category].slug || toSlug(category);
 
         var header = `---\nlayout: page\ntitle:  "${category}"\npermalink: /${slug}/\n---\n`
         if(categories[category].intro) header += categories[category].intro + '\n\n';
