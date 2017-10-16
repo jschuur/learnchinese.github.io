@@ -4,7 +4,9 @@
   "description": "[learnchinese.club](http://learnchinese.club) is a Jekyll powered listing of Chinese language learning resources by [Joost Schuur](https://twitter.com/joostschuur).",
   "main": "generate_sections.js",
   "scripts": {
-    "build": "node generate_sections.js"
+    "build-resource-count": "sed -i '' -e \"s/^resource_count:.*$/resource_count: $(grep -oh http _sections/*.md | wc -l | awk '{$1=$1};1')/\" _config.yml",
+    "build-last-updated": "sed -i '' -e \"s/^last_updated:.*$/last_updated: $(TZ=UTC date +\"%b %d %Y\")/\" _config.yml",
+    "build": "node generate_sections.js; npm run -s build-resource-count; npm run -s build-last-updated"
   },
   "repository": {
     "type": "git",
