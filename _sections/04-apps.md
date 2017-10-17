@@ -33,3 +33,4 @@ permalink: /apps/
 * [Levelr Chinese](http://levelr.io/learnchinese/) - Read News and Learn Chinese for all levels, iOS and Android.
 * [Manga Mandarin](http://www.funnybean.com/) - Learn Mandarin Chinese via original comics.
 * [Hanping Chinese](http://hanpingchinese.com/) - Several dictionary and OCR apps for Android.
+* [Learn Chinese Daily](https://play.google.com/store/apps/details?id=com.learn.chinese.daily) - Android app featuring the best content from around the web to learn Chinese.

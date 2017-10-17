@@ -35,6 +35,7 @@ permalink: /todo/
 * Icon to indicate old sites (font emoji? Old man?) Or a system of icons that show freshness?
 * Automate health check of URLs?
 * Form to contribute
+* Improve resource_count logic
 * Link click counters for popularity (via JavaScript event tracking?)
 * Contribute link at the bottom of every section
 * Try out Hyde theme? http://hyde.getpoole.com/
