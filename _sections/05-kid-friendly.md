@@ -13,3 +13,4 @@ permalink: /kids/
 * [Happy Sunshine Friends](https://www.youtube.com/channel/UCpnqph0QcA4FMHGdyGDFaZA) - Some Chinese language videos for kids.
 * [More Fun Chinese](https://www.youtube.com/channel/UCJIgBiDwg9b1HOuF_oNkEfA) - Short, kid centric videos.
 * [Enjoy Chinese](http://www.ejchinese.com/) - Chinese textbooks for kids
+* [Summer Camp China](https://www.summercampschina.com/) - Explore, play and learn in China! Winter and summer events in Shangai and Beijing, suitable for ages 7 - 17.
