@@ -6,7 +6,9 @@
   "scripts": {
     "build-resource-count": "sed -i '' -e \"s/^resource_count:.*$/resource_count: $(grep -oh http _sections/*.md | wc -l | awk '{$1=$1};1')/\" _config.yml",
     "build-last-updated": "sed -i '' -e \"s/^last_updated:.*$/last_updated: $(TZ=UTC date +\"%b %d %Y\")/\" _config.yml",
-    "build": "node generate_sections.js; npm run -s build-resource-count; npm run -s build-last-updated"
+    "build": "node generate_sections.js; npm run -s build-resource-count; npm run -s build-last-updated",
+    "clear-cache": "aws cloudfront create-invalidation --distribution-id E2R3ZZFNODG9XT --paths \"/*\"",
+    "deploy": "aws s3 sync _site/ s3://learnchinese.club; npm run -s clear-cache"
   },
   "repository": {
     "type": "git",

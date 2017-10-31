@@ -15,7 +15,7 @@ plugins:
 
 theme: jekyll-whiteglass
 
-exclude: [ "misc", "vendor", Rakefile", README.md" ]
+exclude: [ "vendor", "Rakefile", "Gemfile", "Gemfile.lock", "README.md", "*.js", "node_modules/*", "*.json" ]
 
 collections:
   sections:
