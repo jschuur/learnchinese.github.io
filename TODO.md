@@ -22,6 +22,8 @@ permalink: /todo/
 * Dedicated section of outdated links at the bottom of the list with header
 * Intro header at the top of the home page (newsbox with a different background color)
 * Meta tags for SEO
+* Change header font size on category pages
+* Improve category HTML title format (add dash)
 
 # After that
 
