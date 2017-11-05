@@ -14,3 +14,4 @@ permalink: /kids/
 * [More Fun Chinese](https://www.youtube.com/channel/UCJIgBiDwg9b1HOuF_oNkEfA) - Short, kid centric videos.
 * [Enjoy Chinese](http://www.ejchinese.com/) - Chinese textbooks for kids
 * [Summer Camps China](https://www.summercampschina.com/) - Explore, play and learn in China! Winter and summer events in Shangai and Beijing, suitable for ages 7 - 17.
+* [Chineasy Tiles](https://www.chineasy.com/play/) - Play to learn Chinese using building blocks and visualization. Not just for kids! 
