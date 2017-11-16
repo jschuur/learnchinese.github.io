@@ -24,5 +24,6 @@
   "devDependencies": {
     "fs-extra": "^4.0.2",
     "google-spreadsheet": "^2.0.4"
-  }
+  },
+  "dependencies": {}
 }
