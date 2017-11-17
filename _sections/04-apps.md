@@ -3,8 +3,9 @@ layout: page
 title:  "Apps"
 permalink: /apps/
 ---
+* [Duolingo](https://www.duolingo.com/course/zh-CN/en/Learn-Chinese-Online) - Learn Chinese in just 5 minutes a day.
 * [Have Fun Learn Chinese](http://www.havefunlearnchinese.com/)
-* [Hello Chinese](http://www.hellochinese.cc/) - Like Duolingo, but for Chinese (sorry, Duolingo!)
+* [Hello Chinese](http://www.hellochinese.cc/) - Like Duolingo, but for Chinese
 * [Du Chinese](https://www.duchinese.net/) - Learn Mandarin by reading
 * [Learn Chinese (Mandarin) by Brainscape](https://www.brainscape.com/learn/chinese-mandarin) - Boost your knowledge of Mandarin Chinese vocabulary, stroke order, and fundamental word and grammar elements.
 * [ChineseSkill](http://chineseskill.com/) - Another Duolingo like learning app
