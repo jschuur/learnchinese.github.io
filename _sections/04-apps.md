@@ -8,6 +8,7 @@ permalink: /apps/
 * [Hello Chinese](http://www.hellochinese.cc/) - Like Duolingo, but for Chinese
 * [Du Chinese](https://www.duchinese.net/) - Learn Mandarin by reading
 * [Learn Chinese (Mandarin) by Brainscape](https://www.brainscape.com/learn/chinese-mandarin) - Boost your knowledge of Mandarin Chinese vocabulary, stroke order, and fundamental word and grammar elements.
+* [Chinese Phrasebook](https://play.google.com/store/apps/details?id=com.chinesephrasebook) - Chinese Phrasebook for fast, easy and essential sentences when you’re visiting China, living as an expat there or want to start learning Mandarin Chinese (Android)
 * [ChineseSkill](http://chineseskill.com/) - Another Duolingo like learning app
 * [Zizzle](http://www.zizzle.io/) - Learn Mandarin Chinese in a fun and efficient way
 * [Decipher Chinese](http://www.decipherchinese.com/) - Daily, bite-sized news articles in Chinese
