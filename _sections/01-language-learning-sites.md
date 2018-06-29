@@ -16,6 +16,7 @@ permalink: /sites/
 * [Domino Chinese](https://dominochinese.com/)
 * [Fluent In Mandarin](https://www.fluentinmandarin.com/)
 * [Just Learn Chinese](http://justlearnchinese.com/)
+* [Pandanese](https://www.pandanese.com/) - Pandanese teaches you radicals, and then the characters and vocabulary that you can build with them: far more intuitive than learning individual strokes.
 * [Grasp Chinese](http://www.graspchinese.com/)
 * [Clozemaster Mandarin](https://www.clozemaster.com/languages/learn-mandarin-chinese-from-english) - Clozemaster is a game to learn language in context. It shows you a sentence missing the most difficult word, and the challenge is to fill in the correct word from context.
 * [Yes Chinese](http://www.yes-chinese.com/en/)
@@ -30,6 +31,7 @@ permalink: /sites/
 * [Sing Chinese Songs](http://www.singchinesesongs.com/)
 * [iMandarinPod](http://www.imandarinpod.com/hoola/)
 * [Chinese Lessons by Melnyk](https://www.melnyks.com/)
+* [Everyday Chinese](http://everydaychinese.com/)
 * [Chinlingo](https://www.chinlingo.com/) - Paid lessons
 * [Master Mandarin](http://l2mastery.com/language-guides/master-mandarin/) - Paid
 * [Why Chinese is Easy](https://fi3mplus.com/why-chinese-is-easy/) - ebook (paid, one time)

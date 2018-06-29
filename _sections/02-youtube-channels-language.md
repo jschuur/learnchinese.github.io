@@ -18,6 +18,8 @@ permalink: /youtube/
 * [Jie Luo](https://www.youtube.com/channel/UC64McbG6KI4pzobN_VE7pIg/videos)
 * [Chels Teaches Chinese](https://www.youtube.com/user/TheStwrong/videos)
 * [Slow and Clear Chinese](https://www.youtube.com/channel/UCdwdSGQsSbcapDmODtOr58g) - Short stories told in very slow and clear Mandarin Chinese.
+* [Skritter](https://www.youtube.com/channel/UCjgfULWh8BVpW4kebqEr91w)
+* [GoEast Chinese Language Center](https://www.youtube.com/user/goeastmandarin)
 * [Top Chinese Characters](https://www.youtube.com/channel/UCMwIqQV-51rI4zoh1dkh5IA/videos)
 * [Chinese Zero to Hero](https://www.youtube.com/channel/UCQ3IlLg5VGeydxtswBoyt6A)
 * [Learn Chinese Huajie](https://www.youtube.com/user/learnchinesehuajie/videos)
@@ -25,6 +27,7 @@ permalink: /youtube/
 * [Learn Chinese With Litao](https://www.youtube.com/user/LitaoChinese)
 * [Elementary Chinese](https://www.youtube.com/channel/UCrnhDdeBznnSKGrSTOTahtA)
 * [Speed Mandarin](https://www.youtube.com/user/SpeedMandarin/videos)
+* [EveryDay Chinese](https://www.youtube.com/channel/UCSXriUqkzZmAQklQ0N9XFVw)
 * [Mandarin Corner](https://m.youtube.com/channel/UC2fAiRQHRQT9aj9P_ijYeow)
 * [New Practical Chinese Reader videos](https://www.youtube.com/channel/UCAmh_hY9q-BLHIQ7shSrVoQ/videos) - [alternate channel](https://www.youtube.com/channel/UC3pGw6kat2Bkep6Wh_atAgw)
 * [Na Li Mandarin Class](https://www.youtube.com/channel/UCvfhc_cq88p2SCwqR5eWIFg)
