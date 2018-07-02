@@ -46,3 +46,4 @@ permalink: /sites/
 * [Chinese Tutor](https://www.fastchinese.org/)
 * [Chinese Word of the Day](http://709er.com/wordoftheday/chinese/) - with audio
 * [Learn a Chinese Character a Day](http://www.learnchineseeveryday.com/)
+* [Most Common Chinese Characters](http://www.zein.se/patrick/3000char.html) - The 3000 most common Chinese characters, in order of frequency.
