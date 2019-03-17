@@ -1,6 +1,5 @@
 node_modules/
 _site/
 .sass-cache/
-_sections.bak/
 .jekyll-metadata
 google-creds.json
