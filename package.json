@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jschuur/learnchinese.github.io.git"
+    "url": "git+https://github.com/jschuur/learnchinese.club.git"
   },
   "keywords": [],
   "author": "Joost Schuur <jschuur@jschuur.com> (http://joostschuur.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jschuur/learnchinese.github.io/issues"
+    "url": "https://github.com/jschuur/learnchinese.club/issues"
   },
   "homepage": "http://learnchinese.club",
   "devDependencies": {
