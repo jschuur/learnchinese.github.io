@@ -26,6 +26,7 @@ permalink: /apps/
 * [Pinyin Trainer](https://itunes.apple.com/gb/app/pinyin-trainer-by-trainchinese/id376797304?mt=8) - by Train Chinese
 * [Pinyin Converter](https://itunes.apple.com/us/app/pinyin-converter-convert-hanzi-to-hanyu-p%C4%ABny%C4%ABn/id434120323?mt=8)
 * [Allset Learning Pinyin](https://itunes.apple.com/gb/app/allset-learning-pinyin/id483673874?mt=8)
+* [Mandarin Spark](https://mandarinspark.com) - Boost your Chinese skills: Smart study system - you learn with interactive flashcards - the app optimizes your study time - you expand your Mandarin skills faster
 * [Ximalaya](http://www.ximalaya.com/download/) - Chinese language podcast directory and client (iOS, Android)
 * [Chinese Text Analyser](https://www.chinesetextanalyser.com/)
 * [Pinyin Input](https://www.pinyinput.net/)
